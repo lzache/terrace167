@@ -1,0 +1,140 @@
+[Feb 5 22:29:23] 
+[Feb 5 22:29:23] ==DUPLICATOR INSTALLER BOOTSTRAP v1.3.24==
+[Feb 5 22:29:23] ----------------------------------------------------
+[Feb 5 22:29:23] Installer bootstrap start
+[Feb 5 22:29:23] Using archive /home/laurenz0/public_html/author/author_a71946eb7aa1e88d6126_20200205221925_archive.zip
+[Feb 5 22:29:23] Ready to extract the installer
+[Feb 5 22:29:23] Checking permission of destination folder
+[Feb 5 22:29:23] ZipArchive exists so using that
+[Feb 5 22:29:23] Successfully opened /home/laurenz0/public_html/author/author_a71946eb7aa1e88d6126_20200205221925_archive.zip
+[Feb 5 22:29:23] Extracting all files from archive within dup-installer
+[Feb 5 22:29:23] Success: dup-installer/dup-database__a71946e-05221925.sql >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/dup-scan__a71946e-05221925.json >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/css/all.min.css >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/css/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.eot >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.ttf >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.eot >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.ttf >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.eot >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.ttf >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/webfonts/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/font-awesome/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/inc.css.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/inc.js.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/inc.libs.css.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/inc.libs.js.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/assets/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/Crypt/Base.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/Crypt/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/Crypt/Random.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/Crypt/Rijndael.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/config/class.archive.config.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/config/class.boot.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/config/class.conf.srv.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/config/class.constants.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/config/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/utilities/class.u.exceptions.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/utilities/class.u.html.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/utilities/class.u.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/utilities/class.u.search.reaplce.manager.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/utilities/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.crypt.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.csrf.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.db.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.engine.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.http.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.installer.state.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.logging.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.package.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.password.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.s3.func.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.server.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/class.view.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/classes/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/ctrl.base.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/ctrl.s1.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/ctrl.s2.base.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/ctrl.s3.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/ctrls/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/browserconfig.xml >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_android-chrome-192x192.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_android-chrome-256x256.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_apple-touch-icon.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_favicon-16x16.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_favicon-32x32.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_favicon.ico >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_mstile-150x150.png >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/lite01_safari-pinned-tab.svg >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/favicon/site.webmanifest >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.exception.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.help.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.init1.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s1.base.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s1.terms.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s2.base.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s2.basic.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s2.cpnl.lite.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s2.dbtest.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s3.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/views/view.s4.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/main.installer.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/dup-archive__a71946e-05221925.txt >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.jsonSerializable.abstract.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.json.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/index.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/snaplib.all.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> /home/laurenz0/public_html/author
+[Feb 5 22:29:23] Successfully closed archive file
+[Feb 5 22:29:23] Successfully extracted with ZipArchive
+[Feb 5 22:29:23] SAPI: CGI
+[Feb 5 22:29:23] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/assets to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/classes to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/ctrls to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/favicon to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/lib to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/views to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/dup-archive__a71946e-05221925.txt to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/dup-database__a71946e-05221925.sql to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/dup-scan__a71946e-05221925.json to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/index.php to 0<br/>
+[Feb 5 22:29:23] Set permissions of /home/laurenz0/public_html/author/dup-installer/main.installer.php to 0<br/>
+[Feb 5 22:29:23] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://author.laurenz.sgedu.site/dup-installer/main.installer.php

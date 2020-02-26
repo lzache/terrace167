@@ -1,0 +1,42 @@
+/*
+
+Theme Name: Durga-Child
+Author: Lauren
+Template: durga
+Text Domain: durgaChild
+
+*/
+
+.header {
+    height: 800px;
+}
+
+.inside-header{
+    height: 400px;
+}
+
+.inside-header img {
+    opacity: .5%;
+}
+
+.post-image {
+    width: 300px;
+    float: left;
+    clear: left;
+}
+
+.entry-title {
+clear: left;
+
+    padding-top: 20px;
+}
+
+.page-header-image-single .grid-parent {
+    width: 100px;
+}
+
+.reviewcard {
+    padding: 25px;
+    background-color: #F8F8F8;
+    border: 1px solid #989898;
+}
